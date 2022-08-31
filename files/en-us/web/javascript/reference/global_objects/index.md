@@ -1,4 +1,4 @@
----
+---Hosen
 title: Standard built-in objects
 slug: Web/JavaScript/Reference/Global_Objects
 tags:
